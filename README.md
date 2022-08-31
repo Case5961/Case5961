@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Case5961
+- 👀 I’m interested in finding hacks/cheats to make games easier
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on yourjs.com
+- 📫 How to reach me case5961@gmal.com
